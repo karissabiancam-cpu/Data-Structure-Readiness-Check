@@ -14,7 +14,7 @@ public class Main {
 
         System.out.println("Status: Logic compilation successful. Ready for presentation.");
     }
-
+    
     public static int[] extractEvenNumbers(int[] input) {
         if (input == null || input.length == 0) {
             return new int[0];
